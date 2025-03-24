@@ -15,7 +15,7 @@ div {
 
 h1 {
     font-family: "Instrument Serif", serif;
-    font-size: 70px;
+    font-size: clamp(40px, 8vw, 70px);
     color: #2D2424;
 }
 
